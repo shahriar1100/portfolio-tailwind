@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+    /* container */
+  --spacing-container-custom: 1320px; 
+  /* container */
+  /* banner bg  */
+  --color-bannerBg: #FFF8F3; 
+  /* banner bg  */
+  /* button bg */
+  --color-ButtonBg: #FD6E0A; 
+  /* button bg */
+  /* font family  */
+  --font-openSans: "Open Sans", sans-serif;
+  /* font family  */
+  /* text color  */
+  --color-darkOne: #181818;
+  --color-darkTwo: #474747;
+  --color-darkThree: #757575;
+  --color-darkFour: #a3a3a3;
+  /* text color  */
+}
